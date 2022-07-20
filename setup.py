@@ -8,7 +8,7 @@ with open(path.join(HERE, 'README.md'), encoding='utf-8') as f:
 
 setup(
     name="EazyML",
-    version="0.1.1",
+    version="0.1.2",
     description="Simple ML library",
     long_description="A python library for building, training, and testing simple machine learning models.",
     long_description_content_type="text/markdown",
