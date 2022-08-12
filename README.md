@@ -24,3 +24,5 @@ model.train(x_train, y_train, epochs=1, learning_rate=0.005)
 #Test the model with labeled test data
 model.test(x_train, y_train, threshold=0.5)
 ```
+### Full Documentation
+https://eazy-ml.readthedocs.io/
