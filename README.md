@@ -2,9 +2,7 @@
 A python library for building, training, and testing simple machine learning models.
 
 ### Installation
-```
-pip install EazyML
-```
+12/17/2024 Update -> EazyML is no longer on pip
 
 ### Get started
 Build and test a simple logistic regression model
